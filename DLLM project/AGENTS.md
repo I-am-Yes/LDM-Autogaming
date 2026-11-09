@@ -1,0 +1,1 @@
+Game AssetsFolder: "C:\Users\khang\model decisions project\DLLM project\assets"
